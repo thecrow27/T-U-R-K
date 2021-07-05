@@ -20,7 +20,7 @@ termux-toast -b red -c yellow "Merhaba"
 	sleep 3
 	termux-toast -b red -c yellow  "Hadi başlıyalım bakalım :)"
 	sleep 2
-	termux-toast -b red -c yellow  "𝒴𝒶𝓂𝒶𝓃 𝐸𝒻𝓀𝒶𝓇"
+	termux-toast -b red -c yellow  "Instagram - @mplt0"
 	sleep 2
 
 	apt update && apt upgrade -y
