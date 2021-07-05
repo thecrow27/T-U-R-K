@@ -12,7 +12,7 @@ sleep 10
 
 termux-toast -b red -c yellow "Merhaba"
 	sleep 2
-	termux-toast -b red -c yellow  "Ben Yaman Efkar 'ın yapay zekasıyım."
+	termux-toast -b red -c yellow  "Ben MERT PALIT 'ın yapay zekasıyım."
 	sleep 2
 	termux-toast -b red -c yellow  "10 saniye sonra tool için gerekli tüm paketleri,senin için hazırlamaya başlamış olucağım."
 	sleep 4
@@ -67,7 +67,7 @@ termux-toast -b red -c yellow "Merhaba"
 }
 banner(){ 
 	echo -e '\e[37m
-	\tCode: YamanEfkar\033[31;40;1m
+	\tCode: MERT PALIT\033[31;40;1m
 	¸.•*´¨`*•.¸¸.•*´¨`*•¸.•*´¨`*•.¸
 	░
 	░\e[31m[\e[37m01\e[31m]\e[37mExploit\033[31;40;1m
